@@ -1,5 +1,3 @@
-Here's the README.md content for your "Archer" project in English:
-
 ```markdown
 # Archer
 
