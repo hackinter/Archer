@@ -1,4 +1,3 @@
-```markdown
 # Archer
 
 Archer is a powerful and user-friendly tool designed for cybersecurity researchers and hackers. It helps streamline various security testing and analysis tasks.
